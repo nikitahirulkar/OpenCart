@@ -1,0 +1,19 @@
+2025-01-29 18:45:04.985 [main] INFO  testCases.TC002_AccountLoginTest - ***** Finished TC002_AccountLoginTest ********* 
+2025-01-29 18:53:55.345 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation Testing\Eclipse_workspace\OpenCart\grid-docker.xml"
+2025-01-29 18:53:58.335 [main] INFO  testCases.TC001_AccountRegistrationTest - ********** Starting TC001_AccountRegistrationTest ************
+2025-01-29 18:53:59.076 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-01-29 18:53:59.521 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-01-29 18:53:59.524 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details
+2025-01-29 18:54:01.121 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-01-29 18:54:01.434 [main] INFO  testCases.TC001_AccountRegistrationTest - ********** Finished TC001_AccountRegistrationTest ************
+2025-01-29 18:54:03.744 [main] INFO  testCases.TC002_AccountLoginTest - ********** Starting TC002_AccountLoginTest **************
+2025-01-29 18:54:05.812 [main] INFO  testCases.TC002_AccountLoginTest - ***** Finished TC002_AccountLoginTest ********* 
+2025-01-29 19:02:41.222 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation Testing\Eclipse_workspace\OpenCart\grid-docker.xml"
+2025-01-29 19:02:44.658 [main] INFO  testCases.TC001_AccountRegistrationTest - ********** Starting TC001_AccountRegistrationTest ************
+2025-01-29 19:02:45.553 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-01-29 19:02:46.036 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-01-29 19:02:46.040 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details
+2025-01-29 19:02:47.625 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-01-29 19:02:47.984 [main] INFO  testCases.TC001_AccountRegistrationTest - ********** Finished TC001_AccountRegistrationTest ************
+2025-01-29 19:02:50.242 [main] INFO  testCases.TC002_AccountLoginTest - ********** Starting TC002_AccountLoginTest **************
+2025-01-29 19:02:52.207 [main] INFO  testCases.TC002_AccountLoginTest - ***** Finished TC002_AccountLoginTest ********* 

@@ -1,0 +1,58 @@
+2025-01-27 12:56:08.106 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation Testing\Eclipse_workspace\OpenCart\master.xml
+
+2025-01-27 13:05:21.709 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation Testing\Eclipse_workspace\OpenCart\master.xml"
+2025-01-27 13:05:22.042 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation Testing\Eclipse_workspace\OpenCart\master.xml
+
+2025-01-27 13:13:49.524 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation Testing\Eclipse_workspace\OpenCart\grid-docker.xml"
+2025-01-27 13:13:49.809 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation Testing\Eclipse_workspace\OpenCart\grid-docker.xml
+
+2025-01-27 13:13:50.072 [main] INFO  testCases.TC001_AccountRegistrationTest - ********** Starting TC001_AccountRegistrationTest ************
+2025-01-27 13:14:36.610 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation Testing\Eclipse_workspace\OpenCart\grid-docker.xml"
+2025-01-27 13:14:36.880 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation Testing\Eclipse_workspace\OpenCart\grid-docker.xml
+
+2025-01-27 13:14:37.148 [main] INFO  testCases.TC001_AccountRegistrationTest - ********** Starting TC001_AccountRegistrationTest ************
+2025-01-27 13:20:11.236 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation Testing\Eclipse_workspace\OpenCart\master.xml"
+2025-01-27 13:20:11.539 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation Testing\Eclipse_workspace\OpenCart\master.xml
+
+2025-01-27 13:25:20.552 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation Testing\Eclipse_workspace\OpenCart\master.xml"
+2025-01-27 13:25:20.846 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation Testing\Eclipse_workspace\OpenCart\master.xml
+
+2025-01-27 13:28:51.583 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation Testing\Eclipse_workspace\OpenCart\master.xml"
+2025-01-27 13:28:51.881 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation Testing\Eclipse_workspace\OpenCart\master.xml
+
+2025-01-27 13:29:55.831 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation Testing\Eclipse_workspace\OpenCart\master.xml"
+2025-01-27 13:29:56.099 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation Testing\Eclipse_workspace\OpenCart\master.xml
+
+2025-01-27 13:30:00.275 [main] INFO  testCases.TC001_AccountRegistrationTest - ********** Starting TC001_AccountRegistrationTest ************
+2025-01-27 13:30:00.826 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-01-27 13:30:01.209 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-01-27 13:30:01.213 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details
+2025-01-27 13:30:05.666 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-01-27 13:30:06.186 [main] INFO  testCases.TC001_AccountRegistrationTest - ********** Finished TC001_AccountRegistrationTest ************
+2025-01-27 13:30:08.349 [main] INFO  testCases.TC002_AccountLoginTest - ********** Starting TC002_AccountLoginTest **************
+2025-01-27 13:30:10.328 [main] INFO  testCases.TC002_AccountLoginTest - ***** Finished TC002_AccountLoginTest ********* 
+2025-01-27 13:30:42.260 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation Testing\Eclipse_workspace\OpenCart\master.xml"
+2025-01-27 13:30:42.536 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation Testing\Eclipse_workspace\OpenCart\master.xml
+
+2025-01-27 13:31:12.756 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation Testing\Eclipse_workspace\OpenCart\master.xml"
+2025-01-27 13:31:13.029 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation Testing\Eclipse_workspace\OpenCart\master.xml
+
+2025-01-27 13:31:15.789 [main] INFO  testCases.TC001_AccountRegistrationTest - ********** Starting TC001_AccountRegistrationTest ************
+2025-01-27 13:31:16.397 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-01-27 13:31:16.770 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-01-27 13:31:16.773 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details
+2025-01-27 13:31:18.334 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-01-27 13:31:18.633 [main] INFO  testCases.TC001_AccountRegistrationTest - ********** Finished TC001_AccountRegistrationTest ************
+2025-01-27 13:31:20.601 [main] INFO  testCases.TC002_AccountLoginTest - ********** Starting TC002_AccountLoginTest **************
+2025-01-27 13:31:22.530 [main] INFO  testCases.TC002_AccountLoginTest - ***** Finished TC002_AccountLoginTest ********* 
+2025-01-27 13:32:54.115 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation Testing\Eclipse_workspace\OpenCart\master.xml"

@@ -1,0 +1,43 @@
+2025-01-29 17:50:17.811 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-01-29 17:50:18.234 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-01-29 17:50:18.237 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details
+2025-01-29 17:50:19.866 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-01-29 17:50:20.223 [main] INFO  testCases.TC001_AccountRegistrationTest - ********** Finished TC001_AccountRegistrationTest ************
+2025-01-29 18:04:33.646 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation Testing\Eclipse_workspace\OpenCart\master.xml"
+2025-01-29 18:04:33.969 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  D:\Automation Testing\Eclipse_workspace\OpenCart\master.xml
+
+2025-01-29 18:04:36.969 [main] INFO  testCases.TC001_AccountRegistrationTest - ********** Starting TC001_AccountRegistrationTest ************
+2025-01-29 18:04:37.593 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-01-29 18:04:37.959 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-01-29 18:04:37.963 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details
+2025-01-29 18:04:39.493 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-01-29 18:04:39.806 [main] INFO  testCases.TC001_AccountRegistrationTest - ********** Finished TC001_AccountRegistrationTest ************
+2025-01-29 18:04:41.919 [main] INFO  testCases.TC002_AccountLoginTest - ********** Starting TC002_AccountLoginTest **************
+2025-01-29 18:04:43.915 [main] INFO  testCases.TC002_AccountLoginTest - ***** Finished TC002_AccountLoginTest ********* 
+2025-01-29 18:05:14.015 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation Testing\Eclipse_workspace\OpenCart\grid-docker.xml"
+2025-01-29 18:05:17.099 [main] INFO  testCases.TC001_AccountRegistrationTest - ********** Starting TC001_AccountRegistrationTest ************
+2025-01-29 18:05:17.779 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-01-29 18:05:18.194 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-01-29 18:05:18.199 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details
+2025-01-29 18:05:19.754 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-01-29 18:05:20.101 [main] INFO  testCases.TC001_AccountRegistrationTest - ********** Finished TC001_AccountRegistrationTest ************
+2025-01-29 18:05:22.280 [main] INFO  testCases.TC002_AccountLoginTest - ********** Starting TC002_AccountLoginTest **************
+2025-01-29 18:05:23.805 [main] INFO  testCases.TC002_AccountLoginTest - ***** Finished TC002_AccountLoginTest ********* 
+2025-01-29 18:43:57.130 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation Testing\Eclipse_workspace\OpenCart\grid-docker.xml"
+2025-01-29 18:44:01.186 [main] INFO  testCases.TC001_AccountRegistrationTest - ********** Starting TC001_AccountRegistrationTest ************
+2025-01-29 18:44:02.109 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-01-29 18:44:02.643 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-01-29 18:44:02.647 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details
+2025-01-29 18:44:04.608 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-01-29 18:44:04.981 [main] INFO  testCases.TC001_AccountRegistrationTest - ********** Finished TC001_AccountRegistrationTest ************
+2025-01-29 18:44:07.375 [main] INFO  testCases.TC002_AccountLoginTest - ********** Starting TC002_AccountLoginTest **************
+2025-01-29 18:44:09.471 [main] INFO  testCases.TC002_AccountLoginTest - ***** Finished TC002_AccountLoginTest ********* 
+2025-01-29 18:44:52.291 [main] DEBUG org.testng.TestNG - suiteXmlPath: "D:\Automation Testing\Eclipse_workspace\OpenCart\grid-docker.xml"
+2025-01-29 18:44:55.292 [main] INFO  testCases.TC001_AccountRegistrationTest - ********** Starting TC001_AccountRegistrationTest ************
+2025-01-29 18:44:56.075 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+2025-01-29 18:44:56.539 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+2025-01-29 18:44:56.543 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing Customer Details
+2025-01-29 18:44:58.109 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2025-01-29 18:44:58.445 [main] INFO  testCases.TC001_AccountRegistrationTest - ********** Finished TC001_AccountRegistrationTest ************
+2025-01-29 18:45:00.626 [main] INFO  testCases.TC002_AccountLoginTest - ********** Starting TC002_AccountLoginTest **************
